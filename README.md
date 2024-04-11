@@ -1,3 +1,5 @@
+🌿 Four Twenty / 420
+
 # Bolt
 A third-party launcher and helper for your favourite MMO
 
